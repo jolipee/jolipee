@@ -61,6 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-p
 
           
 
+![Snake animation](https://github.com/jolipee/jolipee/blob/output/github-contribution-grid-snake.svg)
 
 
 
