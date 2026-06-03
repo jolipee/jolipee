@@ -1,6 +1,5 @@
 
-Sou João Filipe, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília. Estou focado no desenvolvimento back-end, buscando aprimorar minhas habilidades para criar soluções eficientes e inovadoras que atendam às necessidades reais dos usuários.
-
+Sou João Filipe, estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília, focado em Análise e Engenharia de Dados. Atualmente estudo SQL, Python, modelagem de dados, bancos de dados e processos de ETL, buscando desenvolver soluções escaláveis e orientadas por dados.
 <hr>
 
 <img 
